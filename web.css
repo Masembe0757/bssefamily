@@ -1,0 +1,51 @@
+body{
+ background: linear-gradient(#ffcf79,purple);
+ margin: 0;
+}
+#but{
+	background-color: #444444;
+	border-radius: 5px;
+}
+#but:hover{
+	background-color: #AAAAAA;
+}
+#done{
+	background-image: url("back.png");
+}
+h2{
+	color:#3300AA;
+
+}
+#dv{
+	padding: 10px;
+	background-color: seagreen;
+	border-style: ridge;
+	box-shadow: 1px 1px 60px ;
+	margin: 20px;
+}
+#dv2{
+	background-color: #CCFF22;
+	padding: 5px;
+	margin: 50px;
+	border-radius: 20px;
+	padding-left: 15px;
+	box-shadow: 2px 1px 60px;
+}
+h1{
+	font-family: serif;
+	color: #000055;
+}
+#up{
+	width: 200px;
+	height: 200px;
+	background-color: lightgray;
+	border-radius: 40%;
+}
+#ph{
+	padding-left: 565px;
+	display: none;
+}
+#Add{
+	cursor: pointer;
+	color: darkblue;
+}
